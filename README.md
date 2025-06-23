@@ -20,7 +20,7 @@ This is a memory-based color pattern game inspired by the classic **Simon Says**
 4. If you get it wrong, the game will reset
 
 ## 📺 Demo
-([https://your-live-link.netlify.app](https://6858fc277a97b54e7cff5bea--verdant-bonbon-1e7d09.netlify.app/)/)** 
+([Enjoy the Game with just a click.](https://6858fc277a97b54e7cff5bea--verdant-bonbon-1e7d09.netlify.app/)/)** 
 
 ## 📁 Folder Structure
 📦 SimonSays-Game
