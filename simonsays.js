@@ -3,7 +3,6 @@
    let gameSeq=[];
    let userSeq=[];
 
-
      // array to choose random bttns   
    let bttns=["yellow" , "red", "green" , "purple"];
    //varriable to start the game
@@ -11,7 +10,6 @@
    let level=0;
 
    let h3=document.querySelector("h3");
-
 
    // on clicking the any key , game will be started
    document.addEventListener("keypress" , function(){
